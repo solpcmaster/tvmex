@@ -1,4 +1,6 @@
 #EXTM3U 
+#EXTINF:-1 tvg-id="Canal13Oaxaca.mx" tvg-logo="https://i.imgur.com/SlycKgZ.png" group-title="General",Canal 13 Oaxaca
+https://207963.global.ssl.fastly.net/65313d270e749722b6474684/live_0bd65ed0dfbf11ee848c53d8a686e201/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png", Conecta TV * | MX
 https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://i2.paste.pics/fb661547262e362a034610ad74c17441.png", ADN 40 | MX
